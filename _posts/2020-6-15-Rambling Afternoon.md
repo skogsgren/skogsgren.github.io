@@ -1,0 +1,13 @@
+---
+title: Rambling Afternoon
+layout: post
+tag: rambling
+---
+
+Humans are irrational creatures of relativity, we never deal in intrinsic value - especially not in happiness. It has been proven that we don't respond much to the *intrinsic* value of dopamine, but to habit, the expected value. Take away some of the dopamine that you get in on a regular basis and you feel much less happy, relative to say one employing a Stoic practitioner who "self-regulates" what he gets pleasure from, or perhaps in better words, what he allows himself to indulge in. Life is a constant battle between choices, in terms of happiness the choice between short-term rushes of indulgence, or long-term - slow burn. This is what many philosophers talk about when they say that we are to find a purpose with which to aim our lives toward. 
+
+Indulging in short-term bursts are not taboo in any sense, but it is crucial to think about what could be the consequences of that action. Is smoking cigarettes something that I really *want* to be doing, just because I desire it? The habit will make me lose several years of my life in the long run, all for the short-term burst of dopamine. With that in mind, something that is much more powerful than the indulging - and which we seldom think about in that way - is the desire itself. The moment before indulging is the time where we feel the most pleasure, it is often disappointing to *do* the indulging, the intense desire is the real drug.
+
+Then there is also the discussion about pride. Why do you feel proud doing certain things and less proud with others? I think it is about the *intent* with how you performed the action. Did I perform the action based on the intent of being *good* - whatever that means to me - or did I do it through false intent, rationalizing it through the intuitive desire? In my opinion, it is a powerful question to ask, and a very difficult one as well that very well can lead down a rabbit hole full of self-doubt; however, I don't think that rationalizes *not* thinking in those terms. 
+
+Thus the denial of certain urges is not because you are denying yourself to be alive, but choosing exactly how you want to live life. Is it the indulging or the desire that really shows you that you are alive? I would say the latter, life is about desire, about wanting things. The sad truth is that we will never be satisfied if we go down the road toward *maximizing* happiness, indulging at our body's whim. Thus, reevaluating what you think that life should be about, what brings you happiness - and what doesn't should be the goal. Truly living life on your own terms. 
