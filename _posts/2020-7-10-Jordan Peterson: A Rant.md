@@ -51,7 +51,7 @@ In the same interview he implies in his argument about natural hierarchies that 
 
 In my opinion, society is undoubtedly man-made. Everything around us in society, the inequality between gender, race and economic is a problem to be solved, or at least, must be attempted to solve. 
 
-[^1] Peterson, Jordan B. Maps of Meaning: The Architecture of Belief. New York: Routledge, 1999.
+[^1]: Peterson, Jordan B. Maps of Meaning: The Architecture of Belief. New York: Routledge, 1999.
 
 [^2]: Popper, Karl. The Open Society and Its Enemies. 1. Aufl. London: Routledge, 2002.
 
