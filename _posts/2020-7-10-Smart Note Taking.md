@@ -4,7 +4,7 @@ layout: post
 tag: learning-techniques
 ---
 
-Smart notetaking, as aptly named by Sönke Ahrens in his book *Smart Note Taking*, is the form of notetaking formed around concepts and the connections of those concepts to other, perhaps totally unrelated, concepts. It is the mirroring of how the brain works, not by creating new synapses, but by enforcing the connectinos between already existing ones. In order to do this (note that this is merely *my* way of doing this, also from the perspective of someone who reads mostly philosophy) I usually go by these following steps/methods.
+Smart notetaking, as aptly named by Sönke Ahrens in his book *Smart Note Taking*, is the form of notetaking formed around concepts and the connections of those concepts to other, perhaps totally unrelated, concepts. It is the mirroring of how the brain works, not by creating new synapses, but by enforcing the connections between already existing ones. In order to do this (note that this is merely *my* way of doing this, also from the perspective of someone who reads mostly philosophy) I usually go by these following steps/methods.
 
 ## Active Reading
 
