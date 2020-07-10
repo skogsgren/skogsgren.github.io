@@ -35,7 +35,7 @@ logo: /assets/images/20200706_0001_01.jpg
 # # # # #
 
 # URL-stuff, don't forget the 'http...'-part
-url: "https://skogsgren.github.io"
+url: "https://gakusei.cyou"
 #baseurl: ""
 permalink: /:year/:month/:day/:title.html
 
