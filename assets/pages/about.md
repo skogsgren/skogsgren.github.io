@@ -24,7 +24,7 @@ p.pic {
 
 ## ...myself #
 
-For some reason too restless to write in my native language, it just never clicked for me. Maybe it was the remnants of Rimbaud in the collective unconscious--- Wait Rimbaud was French. I'll have to come up with another theory.
+For some reason too restless to write in my native language, it just never clicked for me. Maybe it was the remnants of Rimbaud in the collective unconscious― wait, Rimbaud was French. I'll have to come up with another theory.
 
 ## ...my writing #
 
