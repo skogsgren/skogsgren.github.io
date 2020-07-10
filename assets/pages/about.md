@@ -6,30 +6,14 @@ happen to work on."
 layout: pages
 ---
 
-{% comment %}
-    You should probably delete everything here and write
-    something for yourself.
-{% endcomment %}  
+## ...myself #
 
-
-_This is a simple introduction of [insert something here]_.
-
-## ..myself #
-
-Hello there. How I’ve waited for you to come, Ive been here all alone. 
-Now that you've arrived. Please stay a while. And I promise I won't keep you 
-long. <style>a{color: #FFF;}a:hover{color: #f0f0f0;}.footer a{color: #800000;}
-</style> [_I'll keep you forever..._](https://www.youtube.com/watch?v=fGZsO4ZO2
-OE)
+For some reason too restless to write in my native language, it just never clicked for me. Maybe it was the remnants of Rimbaud in the collective unconscious... Wait Rimbaud was French. I'll have to come up with another theory.
 
 ## ...my writing #
 
-I write all this because I like to chant, rant and sometimes say things that I
-probably shan't.
+Oh, it's all terrible. But I think I am getting better.
 
-## ...this theme #
+## ... philosophy #
 
-Shredded! Simply stated in three words: ugly, old and barren.
-<a href="https://github.com/kxxvii/Kikofri" style="color: #800000;">
-Kikofri@github</a>.
-
+What I tell myself is interesting to me and others after three beers and a regretted cigarette.
