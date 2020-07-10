@@ -17,3 +17,7 @@ Oh, it's all terrible. But I think I am getting better.
 ## ... philosophy #
 
 What I tell myself is interesting to me and others after three beers and a regretted cigarette.
+
+## ... 日本語の勉強しますか？
+
+I have an unhealthy relationship with commiting to learning. I love to start cooking, peel that sweet potato & carrot, brown that onion, but when push comes to shove I don't have the energy to stand around the stove all day for Japanese curry. For now I have decided to keep the anxiety under control by watching some Cowboy Bebop now and again w/o subtitles.
