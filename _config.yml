@@ -49,11 +49,6 @@ nav:
 
  - name: "tags"
    href: "/tags"
-   
-<!--- name: "feed"
-   href: "/feed.xml"-->
-
- 
 
  - name: "contact"
    href: "/contact"
