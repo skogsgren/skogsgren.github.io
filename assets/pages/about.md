@@ -6,6 +6,22 @@ happen to work on."
 layout: pages
 ---
 
+<style>
+img {
+    width: 120px;
+    margin: 3rem auto 0 auto;
+}
+p.pic {
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 0.75rem;
+}
+</style>
+
+![]({{ site.url }}/assets/images/IMG_1231.jpg)
+<p class="pic">Pictured: <em>'Unsustainable relationship to cigarettes & coffee.'</em></p> 
+
 ## ...myself #
 
 For some reason too restless to write in my native language, it just never clicked for me. Maybe it was the remnants of Rimbaud in the collective unconscious... Wait Rimbaud was French. I'll have to come up with another theory.
