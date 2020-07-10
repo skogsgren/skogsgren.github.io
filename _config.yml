@@ -8,15 +8,15 @@
 #
 # Basic, either your jekyll site's name or
 # an organization.
-name: "K i k o f r i"
-description: "dirty and malnourished jekyll theme"
+name: "G a k u s e i"
+description: "Practice ground for terrible writing"
 
 # This should be a person of some sort.
-author: "kxxvii"
+author: "Gustaf Gren"
 
 # Would make sense to use the 'name:' above
 # here. This is an alternative title.
-title: "Kikofri - Live Undead (1988, Moscow)"
+title: "学生の哲学"
 
 # 'en_US' is the default language. Enter a
 # new default language here. Making 'en_US'
@@ -54,4 +54,4 @@ nav:
    href: "/feed.xml"
 
  - name: "contact"
-   href: "/mailto:ivantheterrible@1530to1584.gov"
+   href: "/mailto:websites.gustaf@posteo.org"
