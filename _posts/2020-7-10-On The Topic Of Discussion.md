@@ -1,7 +1,7 @@
 ---
 title: On The Topic Of Discussion
 layout: post
-tag: Rambling
+tag: rambling
 ---
 
 Everybody past the age of fifteen knows the danger in navigating the minefield of discussion. Few things ruin family dinners, job interviews or first dates quicker than bringing up your personal views about *insert controversial topic here*. At the same time there are some that are seemingly indifferent to anything at all, unfazed by even the most controversial of opinions. That everybody should - by law - bow before their superior overlord, the flying spaghetti monster, is fine by them. Of course most of us fall somewhere in the middle but it is an interesting dichotomy nonetheless - especially if you start to wonder at the reasons why. Some would say that we argue based on emotion and not rationality, which is true to some degree. Others would say that we argue entirely on our intuitions instead, rationalizing after the fact - which I think is getting closer to the truth. But, I would say that instead it being on the topic of rationality, it is on the topic of different definitions of basic psychological concepts.
