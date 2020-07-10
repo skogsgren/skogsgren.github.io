@@ -8,7 +8,7 @@ Jordan Peterson is undoubtedly a very smart guy, specifically in the field of ps
 
 To me it seems that in many of his talks he speaks of the moral decline of civilization, that to him allegedly started after Descartes, Newton and other scientific philosophers. This strikes me as very similar to that of Plato, who talked of a return to tribal society in order to stop the perpetual, unavoidable moral decline. For example, in Peterson's book *Maps of Meaning* he writes:
 
->*“Prior to the time of Descartes, Bacon, and Newton, man lived in an animated, spiritual world, saturated with meaning, imbued with moral purpose. The nature of this purpose was revealed in the stories people told each other—stories about the structure of the cosmos and the place of man.”* [^1]
+>*“Prior to the time of Descartes, Bacon, and Newton, man lived in an animated, spiritual world, saturated with meaning, imbued with moral purpose. The nature of this purpose was revealed in the stories people told each other—stories about the structure of the cosmos and the place of man.”*
 > 
 >*"Now we think empirically (at least we think we think empirically), and the spirits that once inhabited the universe have vanished.”* [^1]
 
