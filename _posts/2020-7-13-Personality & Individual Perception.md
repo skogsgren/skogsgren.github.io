@@ -16,7 +16,7 @@ The attitudes of the MBTI is the machinery of the types themselves and can be di
 
 Now before I go into the main point of my argument we need to bring up John Locke and his theory on knowledge in order to make sense of the argument.
 
-## Locke's Theory Of Knowledge
+### Locke's Theory Of Knowledge
 
 >*"No Man's Knowledge here, can go beyond his Experience."* [^1]
 
@@ -24,7 +24,7 @@ Locke proposes that an inquiry into the theory of knowledge should be grounded i
 
 In short it just means that all our knowledge comes from our experience, and that different people have different perceptions of the same idea. However, while some differences are so minor that they are meaningless, like the idea of the color white, it is when they grow into complex ideas that the differences start to show. When this starts to get really interesting is when Locke applies it to language, and even more specifically, to words.
 
-### Words
+#### Words
 
 > *"Really the truth is just a plain picture.* - Bob Dylan
 
@@ -32,7 +32,7 @@ To Locke all words originate from the simple ideas of the mind, and are created 
 
 This dissonance between listener/hearer can, in my opinion, also contribute to the development of ideas. Different words bring up different ideas in different people, and the combination of those ideas into new ones is what brings progress. Like the connection between Hegel and Marx, same general line of thought, with two completely different perspectives.
 
-## MBTI Attitudes In Lockian Terms
+### MBTI Attitudes In Lockian Terms
 
 This brings up to mind the theory of MBTI and my purpose behind writing this: that our different personalities are based on the way we *perceive* basic sensory information, or in Lockian terms "simple ideas". At this point I must clarify that when I say *perceive* I am not talking about the sometimes unconscious process of *absorbing* sensory information but the "judging" that takes place in the mind, the placing that raw information in their corresponding meaning in relation to oneself; the process in how that particular information stays relevant to us.
 
@@ -40,7 +40,7 @@ So let's look at an example. Let's say we have a situation in which someone has 
 
 So, to combine this with Lockian thought would merely be the combining between MBTI attitudes and the theory of simple ideas as the basis of human knowledge. For if our senses are the basis of knowledge, and the way in which we judge the information arriving through our senses differs depending on the *attitudes* that we prefer, we are suddenly faced with a very interesting theory. And I must admit that the implications of this theory are very non-practical, but they are very fun to think about. Perhaps it could be confirmation bias, but the more I observe conversations and actions of myself and people around me these types of patterns emerge.
 
-## Conclusion
+### Conclusion
 
 Finally I think it is appropriate to bring up John Locke's perspective on truth. The way I interpret his use of the word is that it is found out by self-contemplation and thinking by yourself, not getting "truths" from other people. Taken directly from his epistemology, experiencing the "truth" for yourself, and getting your own perception of those simple ideas, not leaning on others perception of simple ideas, because that would be futile. 
 
