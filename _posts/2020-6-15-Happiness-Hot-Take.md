@@ -1,5 +1,5 @@
 ---
-title: Happiness & Desire: Hot Take
+title: Happiness & Desire - Hot Take
 layout: post
 tag: rambling
 ---
