@@ -10,4 +10,4 @@ layout: pages
 
 ## ...social media#
 
-pffft...
+[@goodreads](https://www.goodreads.com/user/show/50212535-gustaf)
