@@ -20,6 +20,6 @@ Now, granted, this is a very unfair analysis of both of the academics that I hav
 
 ## References
 
-[^1]: p.334, Mercier, Hugo, and Dan Sperber. *The Enigma of Reason: A New Theory of Human Understanding*, 2018.
+[^1]: [p.334], Mercier, Hugo, and Dan Sperber. *The Enigma of Reason: A New Theory of Human Understanding*, 2018.
 [^2]: Sapolsky, Robert M. *Behave: The Biology of Humans at Our Best and Worst*. New York, New York: Penguin Press, 2017.
 [^3]: Popper, Karl. *The Open Society and Its Enemies*. 1. Aufl. London: Routledge, 2002.
