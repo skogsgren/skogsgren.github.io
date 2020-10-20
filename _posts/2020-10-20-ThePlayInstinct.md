@@ -1,7 +1,7 @@
 ---
 title: The Play Instinct - Schiller
 layout: post
-tags: philosophy
+tag: philosophy
 ---
 
 >*"Insofar as he gives form to matter, and so long as he gives it, he is invulnerable to her influences; for nothing can injure a spirit except what deprives it of freedom, and Man proves his freedom by his very forming of the formless."[^1]*
