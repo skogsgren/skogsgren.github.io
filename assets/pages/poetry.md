@@ -1,3 +1,9 @@
+---
+permalink: /poetry
+layout: default
+pagin: true
+---
+
 <!DOCTYPE html>
 <html>
    <head>
