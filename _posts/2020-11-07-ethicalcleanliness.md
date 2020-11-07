@@ -20,4 +20,4 @@ These two arguments provide an almost complete picture, a portrait of a deeply p
 
 [^1]: In lack of a better word.
 
-[^2]: While it is officially outlawed segregation is, unfortunately, still very much present in the form of targeted laws & other systemic racist policies.
+[^2]: While it is officially outlawed segregation is, unfortunately, still very much present in the form of targeted laws & other systemically racist policies, like the rent zoning legislation put in to action after the introduction of the civil rights act of 1964.
