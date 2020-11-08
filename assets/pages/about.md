@@ -28,7 +28,7 @@ For some reason too restless to write in my native language, it just never click
 
 ## ...my writing #
 
-Oh, it's all terrible. But I think I am getting better.
+Oh, it's all terrible. But I think I am getting better. If you're that desperate for more bad writing I have another [website](https://julietstomb.xyz).
 
 ## ... philosophy #
 
