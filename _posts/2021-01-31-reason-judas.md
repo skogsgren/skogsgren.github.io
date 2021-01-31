@@ -1,5 +1,5 @@
 ---
-title: Reason: the Judas of right-wing politics
+title: Reason - the Judas of right-wing politics
 tag: politics
 layout: post
 ---
