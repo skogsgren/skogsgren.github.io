@@ -8,6 +8,8 @@ Lewis aims to synthesize two elements in the philosophy of language that he says
 
 #### *Thesis*: 
 
+TEST: $$\alpha$$
+
 Language is a function, going from a finite set of marks(vocal or non-vocal) to meaning. Lewis puts it as such: if $\alpha$ is a sentence of $\psi$ then $\psi( \alpha )$ is the meaning of $\alpha$ in $\psi$. This meaning, combined with factual information (about what can be said to be found in the set of that particular world) from this world or possible worlds yields the truth value of $\alpha$.
 
 So according to the thesis language could therefore be said to be a function, output of which is meaning, and input of which are different marks put in relation to corresponding sets in possible worlds.
