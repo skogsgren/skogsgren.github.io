@@ -9,6 +9,14 @@ layout: post
 
 > *"If I burned your house the least I can do is welcome you into my house ... and if I'm burning it right now I should try to stop the fire now."*[^1]
 
+> *Those who can't find anything to live for,*\
+> *always invent something to die for*
+> 
+> *Then they want the rest of us to* \
+> *die for it, too.*
+> 
+> --- Lee Welch
+
 We can look on Klein's work as a long critique of capitalism, because unregulated capitalism, to Klein is a system where the rules are decided by those with the least to lose to climate change. Leaving a threat as momentous as climate change up to the free market, a problem which involves shrinking, is not something one can be particularly optimistic about. In unregulated capitalism, in the war between capitalism and the environment, capitalism will always win. The need is for the government to step in and regulate at least crucial parts of the market economy. Pick winners, like renewables over non-renewables; fixing prices in favor of non-consumerism / environmentalism. 
 
 Modern neo-liberalism is also inadequately equipped to deal with climate change. It hinges on the exploitation of third-world countries that we have made more harsh to live and survive in. It is an individualistic mindset, that every country is in it for themselves. That the strong survive and the weak die. If that is true, then we are truly a psychopathic bunch of apes.
