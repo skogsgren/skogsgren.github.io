@@ -4,6 +4,8 @@ tag: politics
 layout: post
 ---
 
+> *"Even when regulating his existence man feels as if the waves of event had drawn him beyond his depth in the turbulent ocean of history and as if he now had to find a foothold in the drifting whirlpool. What was firm and certain has nowehere remained the ultimate. Morality is no longer adequately founded on generally valid laws. The laws themselves are in need of a deeper foundation."* Jaspers, excerpt from 'Existensialism --- From Dostoyevsky to Sartre'
+
 The goal of any political ideology is to give to people an idea of progression, a goal to move toward. All ideologies also give an account of how society is constituted, what needs to change to give way for the proposed idea of progress, and what needs to remain static. Something that I find interesting is the way that human nature is portrayed in political ideologies[^1], and how that human nature stands in comparison to science. 
 
 In left-wing politics a human being is portrayed as an autonomous being capable of bringing change into the world, change through the transformation of fundamental structures of society - like in our preconceived notions about gender, economics, family etc. Something also worth noting here is that while we are autonomous we are also at the mercy of those systems around us to form us into the persons that we become. We are therefore autonomous, but at the same time codependent on our environment around us. 
