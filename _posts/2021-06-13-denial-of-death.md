@@ -17,11 +17,13 @@ p.pic {
 }
 </style>
 
+![Kierkegaard](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kierkegaard_portrait.jpg/409px-Kierkegaard_portrait.jpg)
+
+<p class="pic">Pictured: <em>'Soren Kierkegaard'</em>. The wizard of loneliness.</p> 
+
 > *"The irony of man's condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive."*[^1]
 
 # The Denial Of Death
-
-![The wizard of loneliness.]({{ site.url }}/assets/images/kierkegaard.jpg)
 
 'The Denial Of Death' by Ernest Becker is a book in the psychoanalytic tradition that changes some fundamental aspects of Freud's original vision, mostly taken from Otto Rank's work. While Freud held the view that the guilt that generates our anxieties lies in suppressed unconscious sexual urges Becker means that he was right to suggest that anxiety was generated from some aspect of our bodily condition, only, it's actually in virtue of the duality between the physical and the spiritual --- not the sexual urges themselves. In other words it is the fact that we are inherently dualistic creatures and thereby in virtue of the dissonance that arises from our "spiritual" (or mental, symbolic etc.) side when it realizes that it will die. 
 
