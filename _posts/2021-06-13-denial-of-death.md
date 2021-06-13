@@ -1,6 +1,7 @@
 ---
 title: The Denial of Death, And The Self
 layout: post
+tag: psychology, philosophy
 ---
 
 [Kierkegaard](images/kierkegaard.jpg)
