@@ -5,24 +5,21 @@ tag: psychology, philosophy
 ---
 
 <style>
-
- /* This is just for the 'img' examples towards the end */
-
- img {
-  border: solid grey 1px;
+img {
+    width: 120px;
+    margin: 3rem auto 0 auto;
 }
-
-  h5 {
-  text-align: center;
-  color: #000;
-  text-decoration: underline;
-  margin-top: -7px;
+p.pic {
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 0.75rem;
 }
 </style>
 
-[Kierkegaard](/images/kierkegaard.jpg)
-
 ![Kierkegaard](/images/kierkegaard.jpg "The wizard of loneliness")
+
+![The wizard of loneliness]({{ site.url }}/posts/images/kierkegaard.jpg)
 
 
 > *"The irony of man's condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive."*[^1]
