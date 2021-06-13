@@ -1,5 +1,5 @@
 ---
-title: 'The Denial of Death' And The Self
+title: The Denial of Death, And The Self
 layout: post
 ---
 
